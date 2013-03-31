@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyText
+  direccion: MyText
+  country: 
+  city: 
+  url_web: MyText
+  url_facebook: MyText
+  url_foursquare: MyText
+  phone: MyText
+  email: MyText
+  geo_coordinates: MyText
+
+two:
+  name: MyText
+  direccion: MyText
+  country: 
+  city: 
+  url_web: MyText
+  url_facebook: MyText
+  url_foursquare: MyText
+  phone: MyText
+  email: MyText
+  geo_coordinates: MyText
